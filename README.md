@@ -1,6 +1,6 @@
-# webscraper-request-cheerio-express 
+# Webscraper-request-cheerio-express 
 
-### how to install 
+### How to install 
 1. Download the code 
 2. Go to the code repository 
 3. run 'yarn install'
