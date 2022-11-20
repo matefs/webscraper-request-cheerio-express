@@ -1,6 +1,6 @@
 # Webscraper request cheerio express 
 
-### How to install 
+### How to install it
 1. Download the code 
 2. Go to the code repository 
 3. run 'yarn install'
