@@ -1,5 +1,5 @@
 # Webscraper request cheerio express 
-See the last news title from the site http://g1.globo.com/ using a webscraper.
+See the last news title from the site http://g1.globo.com/ using a javascript webscraper.
 
 
 ### Project Image
